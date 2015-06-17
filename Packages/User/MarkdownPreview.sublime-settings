@@ -1,0 +1,9 @@
+{
+    "enable_mathjax": true,
+
+    "image_path_conversion": "relative",
+
+     "enabled_parsers": ["markdown"],
+
+     "enable_highlight": true
+}
