@@ -3,7 +3,7 @@
 
     "image_path_conversion": "relative",
 
-     "enabled_parsers": ["markdown"],
+     "enabled_parsers": ["github"],
 
      "enable_highlight": true
 }
