@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Markdown Preview",
-		"Package Control"
+		"Package Control",
+		"Trimmer"
 	]
 }
